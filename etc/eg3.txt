@@ -1,1 +1,10 @@
-This is a letter from me, Stephen.
+SERVICE REQUEST: Ref #SR6684
+CATEGORY: Hardware problems
+TITLE: 'Not receiving messages'
+
+DETAILS: Expecting an order from off-station that should have arrived by now. I usually get several a week, but there's nothing. Can someone check my comms unit? Can't afford to lose the business.
+
+CREATED: 11.09.37
+USER: Martin Patterson
+NOTES: Engineer sent out 11.25.37
+Equipment seems to be functioning. Flag up with Seegson Comms. See if something's slipped through APOLLO'S net. 
